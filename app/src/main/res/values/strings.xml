@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">JuanFast</string>
+
+
+    <string name="title_activity_sede">SedeActivity</string>
+    <string name="title_activity_menú">CartaActivity</string>
+    <string name="title_activity_reserva">ReservaActivity</string>
+
+
+    <string name="titulo">JuanFast</string>
+
+
+    <string name="sedes">Conoce Nuestras Ubicaciones</string>
+    <string name="menú">Conoce Nuestros Productos</string>
+    <string name="reservas">Reserva En JuanFast</string>
+
+
+    <string-array name="categorias">
+        <item>Entradas</item>
+        <item>Prepara tu apetito con nuestras deliciosas entradas</item>
+
+        <item>Fuertes</item>
+        <item>Deliciosa comida rapida que te atrapara con cada mordisco</item>
+
+        <item>Bebidas</item>
+        <item>Dirige tu comida con una deliciosa y refrescante variedad de bebidas</item>
+
+        <item>Postres</item>
+        <item>Date un gusto con estos deliciosos postres</item>
+
+        <item>Licores</item>
+        <item>Parchate con un buena bebida alcoholica</item>
+    </string-array>
+
+    <!--Información Productos-->
+    <string-array name="entradas">
+        <item>Nachos Con Queso ($15.000)</item>
+        <item>Delicioso nachos con queso al estilo mexicano</item>
+
+        <item>Arepas Fritas ($12.000)</item>
+        <item>Delicioso abrebocas tipico de nuestra tierra</item>
+
+        <item>Papa JuanFast ($22.000)</item>
+        <item>Delicosas papas fritas llenas de queso cheddar y tocineta</item>
+
+        <item>Nuggets de pollo ($24.000)</item>
+        <item>Nuggets con papas excelente para los mas pequeños</item>
+
+        <item>Bueñuelos ($2.000)</item>
+        <item>A quien no le gusta un buen bueñuelo para empezar</item>
+    </string-array>
+
+    <string-array name="Platos">
+        <item>Hamburguesa ($25.000)</item>
+        <item>Deliciosa carne 250gr, pan gourmet, tocineta,lechuga y queso mozzarela</item>
+
+        <item>Perro ($15.000)</item>
+        <item>Salchicha ranchera, queso mozzarela, tocineta, enzalada de repollo</item>
+
+        <item>Salchipapas ($21.000)</item>
+        <item>Deliciosas papas, salchicha y bombon de pollo</item>
+        <item>Alitas (26.000)</item>
+        <item>10 porciones de alitas con salsa de tu eleccion</item>
+
+        <item>Chuzo De Pollo ($22.000)</item>
+        <item>Tipico chuzo de pollo acompañado de papas a la francesa y enzalada</item>
+    </string-array>
+
+    <string-array name="Bebidas">
+        <item>Gaseosas ($5.000)</item>
+        <item>Coca-Cola, Pepsi, Manzana, Colombiana</item>
+
+        <item>Soda michelada ($10.000)</item>
+        <item>Refrescante bebida a base de soda</item>
+
+        <item>Limonada ($12.000)</item>
+        <item>Limonada natural o Limonada de coco</item>
+
+        <item>Agua ($3.000)</item>
+        <item>Agua refrescante crystal</item>
+
+        <item>Soda Saborizada ($12.000)</item>
+        <item>Frutos rojos, Frutos amarillos o lycche</item>
+    </string-array>
+
+    <string-array name="Postres">
+        <item>Milo ($5.000)</item>
+        <item>Postre de milo para endulzar tu tarde</item>
+
+        <item>Pie de cereza ($8.000)</item>
+        <item>Delicio Pie </item>
+        <item>Helado ($3.000)</item>
+        <item>Variedad de sabores de helado</item>
+
+        <item>Oreo ($5.000)</item>
+        <item>Poste de galleta oreo</item>
+
+        <item>Fresas con Crema ($5.000)</item>
+        <item>La infaltable copa de fresas con crema</item>
+    </string-array>
+
+    <string-array name="Licores">
+        <item>Aguardiente Antioqueño ($40.000 - media)</item>
+        <item>aguardiente seco producido por la Fábrica de Licores de Antioquia con tres variantes: tapa azul, tapa roja y tapa verde</item>
+
+        <item>Ron de caldas ($50.000 - media)</item>
+        <item>El aroma dulce, acaramelado y afrutado del RON VIEJO DE CALDAS, son el toque de sabor perfecto</item>
+
+        <item>Jose Cuervo ($75.000)</item>
+        <item>tequila premium 100% agave reposado hasta 9 meses en barricas de roble blanco, con una gradación alcohólica del 38%</item>
+
+        <item>Buchanans ($150.000)</item>
+        <item>clásico del whisky escocés de lujo, con más de 130 años de historia</item>
+
+        <item>Cerveza</item>
+        <item>Diversidad de cervezas como la pilsen, aguila, poker y más</item>
+    </string-array>
+
+</resources>
